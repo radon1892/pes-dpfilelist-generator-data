@@ -1,6 +1,4 @@
 2;DLC v1.0;dt80_100E_x64.cpk;64;0;0;0;0;0;0;0;64;0;0;0;74;27;0;0
 3;DLC v1.01;dt80_101E_x64.cpk;0;0;0;0;0;0;0;0;65;0;0;0;75;27;0;0
 4;DLC v1.02;dt80_102E_x64.cpk;0;0;0;0;0;0;0;0;66;0;0;0;76;27;0;0
-
-# disable DLC 2.0 since it's only a placeholder and shouldn't be used currently
-#6;DLC v2.00;dt80_200E_x64.cpk;C8;0;0;0;0;0;0;0;C8;0;0;0;D8;27;0;0
+5;DLC v2.00;dt80_200E_x64.cpk;C8;0;0;0;0;0;0;0;C8;0;0;0;D8;27;0;0
